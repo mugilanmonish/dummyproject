@@ -7,6 +7,10 @@ public class DummyClass {
 		System.out.println("soundarya changes1");
 		System.out.println("third dummy");
 		System.out.println("fourth dummy");
+<<<<<<< HEAD
 		System.out.println("soundarya changes2");
+=======
+		System.out.println("fifth dummy");
+>>>>>>> ccddbc6aeb963fe8b39234a1a28129ada128a44d
 	}
 }
