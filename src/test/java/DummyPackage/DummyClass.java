@@ -10,7 +10,9 @@ public class DummyClass {
 		System.out.println("fifth dummy");
 		System.out.println("sixth dummy");
 		System.out.println("seventh dummy");
+		System.out.println("eighth dummy");
 		System.out.println("ninth dummy");
+		System.out.println("tenth dummy");
 		System.out.println("eleventh dummy");
 	}
 }
