@@ -8,6 +8,7 @@ public class DummyClass {
 		System.out.println("third dummy");
 		System.out.println("fourth dummy");
 		System.out.println("fifth dummy");
+		System.out.println("sixth dummy");
 		System.out.println("seventh dummy");
 	}
 }
