@@ -1,7 +1,6 @@
 package DummyPackage;
 
-public class Abcd {
+public class TestCaseName {
   public static void main(String[] args) {
-	System.out.println("AS ranjith");
 }
 }
