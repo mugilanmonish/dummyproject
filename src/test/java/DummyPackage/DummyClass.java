@@ -12,5 +12,6 @@ public class DummyClass {
 		System.out.println("seventh dummy");
 		System.out.println("eighth dummy");
 		System.out.println("ninth dummy");
+		System.out.println("tenth dummy");
 	}
 }
